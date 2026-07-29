@@ -2,7 +2,8 @@
 
 An interactive Microsoft Excel dashboard built using the Superstore dataset to analyze retail sales performance from **2015 to 2018**. The dashboard provides insights into sales, profit, customer purchasing behavior, regional performance, product categories, and key business metrics through interactive visualizations.
 
-📄 **Project Report:** [Superstore Sales Dashboard (2015–2018).pdf](./Report/Superstore%20Sales%20Dashboard%20%282015%E2%80%932018%29.pdf)
+📄 **Project Report:** [Superstore Sales Dashboard (2015–2018).pdf](./Report/Superstore%20Sales%20Dashboard%20Report.pdf)
+📊 **Dashboard:** [Excel Dashboard](./Dashboard/Superstore%20Sales%20Dashboard%20(2015%E2%80%932018).xlsx)
 
 ---
 
