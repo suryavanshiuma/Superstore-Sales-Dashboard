@@ -96,8 +96,7 @@ Superstore-Sales-Dashboard/
 ├── Dataset/
 ├── Images/
 ├── Report/
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
