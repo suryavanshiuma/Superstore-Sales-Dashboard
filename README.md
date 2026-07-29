@@ -11,13 +11,16 @@ An interactive Microsoft Excel dashboard built using the Superstore dataset to a
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](./Images/Dashboard.png)
-> *(Dashboard screenshot will be displayed here after adding the image to the Images folder.)*
+
+---
 
 ## 📋 Executive Summary
 
 This project presents an interactive sales dashboard built using the **Sample Superstore** dataset. It analyzes **9,994 orders** placed between **2015 and 2018**, providing a comprehensive view of sales performance, profitability, customer behavior, product performance, and regional trends.
 
 The dashboard enables users to monitor key business metrics, identify high-performing categories and states, evaluate sales patterns over time, and uncover insights that support informed business decisions.
+
+---
 
 ## 📌 Key KPIs
 
@@ -29,6 +32,8 @@ The dashboard enables users to monitor key business metrics, identify high-perfo
 | 📦 Total Quantity Sold |      **37,873** |
 | 📅 Analysis Period     | **2015 – 2018** |
 
+---
+
 ## 📊 Dashboard Features
 
 * 📈 Track monthly sales and order trends from **2015–2018**.
@@ -38,6 +43,8 @@ The dashboard enables users to monitor key business metrics, identify high-perfo
 * 📦 Monitor overall business performance using key KPI cards.
 * 🎯 Explore interactive filters for dynamic data analysis.
 
+---
+
 ## 💡 Business Insights
 
 * Sales showed an overall upward trend between **2015 and 2018**, indicating consistent business growth.
@@ -46,6 +53,8 @@ The dashboard enables users to monitor key business metrics, identify high-perfo
 * Certain sub-categories consistently outperformed others, while a few generated lower sales and profit, indicating opportunities for improvement.
 * Regional sales performance varied, suggesting the need for targeted marketing and inventory strategies across different locations.
 
+---
+
 ## 📈 Business Recommendations
 
 * Focus marketing efforts on high-performing states to maximize revenue growth.
@@ -53,6 +62,8 @@ The dashboard enables users to monitor key business metrics, identify high-perfo
 * Review discount strategies to ensure they contribute to profitability without reducing margins.
 * Strengthen inventory planning based on regional demand and product performance.
 * Monitor sales and profit trends regularly to support data-driven business decisions.
+
+---
 
 ## 🛠️ Tools Used
 
@@ -64,6 +75,8 @@ The dashboard enables users to monitor key business metrics, identify high-perfo
   * Data Cleaning
   * Dashboard Design
 
+---
+
 ## 📂 Project Files
 
 | File                                          | Description                   |
@@ -71,6 +84,8 @@ The dashboard enables users to monitor key business metrics, identify high-perfo
 | 📊 Superstore Sales Dashboard.xlsx            | Interactive Excel dashboard   |
 | 📄 Superstore Sales Dashboard (2015–2018).pdf | Project report with dashboard |
 | 📁 Sample-Superstore.xlsx                     | Raw dataset used for analysis |
+
+---
 
 ## 📁 Repository Structure
 
