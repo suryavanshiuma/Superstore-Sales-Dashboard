@@ -10,7 +10,7 @@ An interactive Microsoft Excel dashboard built using the Superstore dataset to a
 
 ## 📸 Dashboard Preview
 
-Images/Dashboard.png
+![Dashboard Preview](./Images/Dashboard.png)
 > *(Dashboard screenshot will be displayed here after adding the image to the Images folder.)*
 
 ## 📋 Executive Summary
